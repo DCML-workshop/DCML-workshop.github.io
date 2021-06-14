@@ -1,38 +1,24 @@
-## Data-Centric Machine Learning
-### Neurips 2021
+# Data-Centric Machine Learning: Developing Models by Developing Data
 
-You can use the [editor on GitHub](https://github.com/DCML-workshop/DCML-workshop.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Overview
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Quantity and quality of training data matters as much to the quality of machine learning models as the choice of architecture, optimizer, and hyperparameters. This workshop will bring together researchers working on methods, theory, and applications for shaping the behavior of models by shaping the data on which those models are trained. This is a rapidly growing area of research, cutting across virtually all areas of machine learning. Topics of interest include (but are not limited to):
 
-### Markdown
+- Weak supervision by labeling data with rules or related models
+- Learning from multiple noisy sources of labels
+- Adding explanations to training data
+- Curating datasets to shape model behavior
+- Encouraging fairness and reducing bias via dataset curation
+- Synthetic data generation for machine learning
+- Data augmentation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Speakers
 
-```markdown
-Syntax highlighted code block
+## People
 
-# Header 1
-## Header 2
-### Header 3
+### Organizers
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### PC members
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DCML-workshop/DCML-workshop.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
