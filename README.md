@@ -54,8 +54,12 @@ TBA
 - Chidubem Arachie, Virginia Tech.
 - Stephen Bach, Brown University.
 - Jason Fries, Stanford University.
-- 
-
+- Bert Huang, Tufts University.
+- Cristina Menghini, Brown University.
+- Alex Ratner, University of Washington.
+- Xiang Ren, University of Southern California.
+- Frederic Sala, University of Wisconsin-Madison.
+- Qinyuan Ye, University of Southern California.
 
 ### PC members
 
