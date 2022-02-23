@@ -54,3 +54,8 @@ TBA
 * [Xiang Ren](https://shanzhenren.github.io/), University of Southern California
 * [Frederic Sala](https://pages.cs.wisc.edu/~fredsala/), University of Wisconsin-Madison
 * [Qinyuan Ye](http://yeqy.xyz/), University of Southern California
+
+<br>
+
+## Contact Us
+Email: [dcml-workshop@googlegroups.com](mailto:dcml-workshop@googlegroups.com)
