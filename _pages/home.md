@@ -2,7 +2,7 @@
 layout: page
 title: home
 permalink: /
-title: Data-centric Machine Learning
+title: Data-Centric Machine Learning
 description: Workshop Proposal for ICML 2022
 
 ---
@@ -32,8 +32,13 @@ Topics of interest include (but are not limited to):
 
 <br>
 
-## Invited Speakers
-TBA
+## Invited Speakers (Confirmed)
+
+* [Sam Bowman](https://cims.nyu.edu/~sbowman/), New York University
+* [Danqi Chen](https://www.cs.princeton.edu/~danqic/), Princeton University
+* [Douwe Kiela](https://douwekiela.github.io/), Hugging Face
+* [Anna Rogers](https://annargrs.github.io/), University of Copenhagen
+* [Ce Zhang](https://ds3lab.inf.ethz.ch/members/ce-zhang.html), ETH Zurich
 
 <br>
 
